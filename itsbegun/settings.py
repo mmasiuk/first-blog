@@ -25,7 +25,7 @@ SECRET_KEY = 'rx)y+t46c06kp0rv&$46*tu)cu-t9+!-iq(i&ofl*=9+=h#sth'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['snoocker.pythonanywhere.com']
 
 
 # Application definition
